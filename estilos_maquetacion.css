@@ -3,7 +3,7 @@
     --color-primario: #33ac23; /* Color principal */
     --color-oscuro: #1a1a1a; /* Color oscuro para textos fuertes */
     --color-texto: #444; /* Color general del texto */
-    --blanco: #ffffff; /* Color blanco */
+    --blanco: #b9f3b7; /* Color blanco */
     --sombra: 0 10px 30px rgba(0,0,0,0.1); /* Sombra suave */
     --transicion: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1); /* Animación suave */
 }
@@ -18,7 +18,7 @@
 /* Configuración general del body */
 body {
     font-family: 'Times New Roman', Times, serif; /* Fuente */
-    background-color: #fdfdfd; /* Fondo claro */
+    background-color: #aceec2; /* Fondo claro */
     color: var(--color-texto); /* Color del texto */
     display: flex;
     flex-direction: column;
